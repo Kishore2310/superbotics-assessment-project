@@ -1,0 +1,8 @@
+# Root .gitignore
+/rewards-api/vendor/
+/rewards-api/node_modules/
+/rewards-api/.env
+/rewards-api/storage/*.key
+/rewards-api/.phpunit.result.cache
+.DS_Store
+Thumbs.db
